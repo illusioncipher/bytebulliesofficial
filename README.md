@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Praneeth and I'm a Member, of Team CyberD</h2>
+<h2 align="left">Hi 👋! My name is Praneeth And i like python/h2>
 
 ###
 
